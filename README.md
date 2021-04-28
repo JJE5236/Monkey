@@ -5,3 +5,7 @@ let a=10;
 let result=a+10;
 alert(result);
 ```
+
+```javascript
+console.log("무언가 작업중");
+```
